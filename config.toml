@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://objective-ride-82d988.netlify.app/"
+baseURL = "https://yknotconcepts.netlify.app/"
 title = "yKnot"
 theme = "meghna-hugo"
 # post pagination
