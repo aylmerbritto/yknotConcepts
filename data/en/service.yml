@@ -1,0 +1,31 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+    # service item loop
+    - name : Grievances App
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Gone are the days, where people wrote letters seeking solutions to their issues. The process is not only hectic but also doesn’t seem to provide us with the expected result. So, what if you are a day scholar, hosteller or even a college staff facing issues with the room, restroom, lift, classes or the cafeteria? 
+                Well, we got you. Allow us to introduce the ------- app. The purpose is very simple, to cut short the red tapism involved in communicating your grievances and to deliver quick and effective solutions. 
+                The ----- app, allows you bridge the gap between management and the students.  You can address your short comings or issues at college, hostel room by using the app.
+                It is now easy to keep a check on reported issues, track them and get live results
+ 
+    # service item loop
+    - name : GST APP
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : Imagine an app, where you can just scan your invoice to get your monthly GST bill. Instantly generate GST transactions and keep a check on your expenses and master the art of taxation.  
+                No, you aren’t dreaming. Believe us, your monthly GST filling is now easier than ever. All that you have to do is just- SCAN! 
+
+      
+    # service item loop
+    - name : Health care app
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    # service item loop
+    - name : Order Trackers App
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
+    
