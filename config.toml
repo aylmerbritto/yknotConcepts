@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://objective-ride-82d988.netlify.app/"
-title = "Meghna"
+title = "yKnot"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
