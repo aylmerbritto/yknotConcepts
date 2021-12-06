@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://objective-ride-82d988.netlify.app/"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
